@@ -1,4 +1,4 @@
-# Python-Projects
+# Python-Games Basic
 Some Games involving Python
 
 Complexity Level: Basic
